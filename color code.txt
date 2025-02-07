@@ -1,0 +1,23 @@
+--text: #040316;
+--background: #fbfbfe;
+--primary: #54d624;
+--secondary: #dddbff;
+--accent: #d8e637;
+
+night mode:
+--text: #eae9fc;
+--background: #010104;
+--primary: #59db29;
+--secondary: #020024;
+--accent: #b9c819;
+
+
+tailwind 
+
+colors: {
+ 'text': '#eae9fc',
+ 'background': '#010104',
+ 'primary': '#59db29',
+ 'secondary': '#020024',
+ 'accent': '#b9c819',
+},
